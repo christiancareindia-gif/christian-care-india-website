@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
+<rect width="800" height="520" rx="36" fill="#eef7ff"/>
+<path d="M400 110l205 95-205 95-205-95z" fill="#1967b3"/>
+<path d="M260 240v90c65 55 215 55 280 0v-90" fill="#fff" stroke="#1967b3" stroke-width="10"/>
+<path d="M605 205v125" stroke="#1967b3" stroke-width="10"/>
+<circle cx="605" cy="350" r="17" fill="#e8b44b"/>
+<path d="M350 360h100" stroke="#e8b44b" stroke-width="12" stroke-linecap="round"/>
+<text x="400" y="465" text-anchor="middle" font-family="Arial" font-size="34" fill="#123c75">Learning &amp; education</text>
+</svg>
